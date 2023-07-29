@@ -23,11 +23,14 @@
 
 
 <h3 align="left">Lenguajes y Herramientas (FronEnd)::</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a><img src="![html-svgrepo-com](https://github.com/Kreyshin/Kreyshin/assets/49412125/17d6f47c-db5a-4296-965f-3de24bc93304)" /></a>
+<p align="left">  
+  <a><img src="https://github.com/Kreyshin/Kreyshin/assets/49412125/3cede60f-685c-4c58-af4e-aa41cc8833c7" width="40" height="40" /></a>
+  <a><img src="https://github.com/Kreyshin/Kreyshin/assets/49412125/8519cb62-afc6-4de0-a225-908f6d692c03" width="40" height="40" /></a>
+  <a><img src="https://github.com/Kreyshin/Kreyshin/assets/49412125/9f621108-8483-44f5-8a40-dce9f2ce6743" width="40" height="40" /></a>
+  <a><img src="https://github.com/Kreyshin/Kreyshin/assets/49412125/814a78b9-ac63-40a5-85c8-6c01c95892d7" width="40" height="40" /></a>
+  <a><img src="https://github.com/Kreyshin/Kreyshin/assets/49412125/e83a8ffc-22f7-4273-85ae-028a5cd2f30d" width="40" height="40" /></a>
+  <a><img src="https://github.com/Kreyshin/Kreyshin/assets/49412125/11bcb225-18a7-4d2b-b19b-e8c471b0dcaa" width="40" height="40" /></a>
+
 
       
 </p>
