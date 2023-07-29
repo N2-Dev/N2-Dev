@@ -1,8 +1,8 @@
-<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="100%" alt="csharp" /> 
+<img src="https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?w=1170&ssl=1" width="100%" alt="csharp" /> 
 <h1 align="center">Hola 👋, Soy Kreyshin</h1>
 <h3 align="center">Desarrollador Full Stack.</h3>
 
-- 🔭 Actualmente trabajo en el desarollo del ERP **Simplifica**
+- 🔭 Actualmente trabajo en el desarollo del ERP <a href="https://simplifica.pe/"  target="blank">**Simplifica**</a>
 
 - 🌱 Actualmente estoy aprendiendo **Vue.js, Python, Node Js, Angular, ASP.NET Core, Dart, Flutter, Kotlin**
 
