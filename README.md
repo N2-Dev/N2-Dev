@@ -1,5 +1,10 @@
 ### Hola soy Kreyshin 👋
 ---
+### Desarrollador FullStack
+
+>Actualmente trabajo en una empresa de softwware que comercializa un ERP, me especializo escencialment en el desarrolo de aplicaciones web para procesos empresariales.
+
+ 
 <!--
 **Kreyshin/Kreyshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
