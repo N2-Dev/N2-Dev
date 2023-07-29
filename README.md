@@ -1,4 +1,4 @@
-<img src="https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?w=1170&ssl=1" width="100%" alt="csharp" /> 
+<img align="center" src="https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?w=1170&ssl=1" width="100%" alt="csharp" /> 
 <h1 align="center">Hola 👋, Soy Kreyshin</h1>
 <h3 align="center">Desarrollador Full Stack.</h3>
 
@@ -7,6 +7,11 @@
 - 🌱 Actualmente estoy aprendiendo **Vue.js, Python, Node Js, Angular, ASP.NET Core, Dart, Flutter, Kotlin**
 
 - 📫 Comunicate conmigo **kreyshin@gmail.com**
+
+<p align="right">
+   <img align="center" src="https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?w=1170&ssl=1" width="50%" alt="csharp" /> 
+</p>
+
 
 <h3 align="left">Sigueme en:</h3>
 <p align="left">
@@ -24,7 +29,8 @@
       <a><img src="https://github.com/Kreyshin/Kreyshin/assets/49412125/304b24bc-159b-4c45-954f-234fa0c52379" width="40" height="40" /></a>
       <a><img src="https://github.com/Kreyshin/Kreyshin/assets/49412125/98f181dd-d89c-456a-b8aa-d3ee25694480" width="40" height="40" /></a>
       <a><img src="https://github.com/Kreyshin/Kreyshin/assets/49412125/d2dba751-9910-4cb8-925a-2c555d244fe4" width="40" height="40" /></a>
-
+      <a><img src="https://github.com/Kreyshin/Kreyshin/assets/49412125/0f1efe42-8ff8-42d9-9037-535772e6a5b0" width="40" height="40" /></a>
+      <a><img src="https://github.com/Kreyshin/Kreyshin/assets/49412125/5f349db7-f38a-4ff8-ae02-065b50e77ada" width="40" height="40" /></a>
       
 </p>
 
