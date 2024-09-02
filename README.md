@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋, Soy Kreyshin</h1>
 <h3 align="center">Desarrollador Full Stack, Autodidacta y proximo Ingeniero en Sistemas.</h3>
 
-- 🔭 Actualmente trabajo en el desarollo del ERP <a href="https://simplifica.pe/"  target="blank">**Simplifica**</a>
+- 🔭 Actualmente trabajo en el desarollo del ERP <a href="https://evol.biz/"  target="blank">**Evol**</a>
 
 - 🌱 Actualmente estoy aprendiendo **Vue.js, Python, Node Js, Angular, ASP.NET Core, Dart, Flutter, Kotlin**
 
