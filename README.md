@@ -11,7 +11,7 @@
 
 <h3 align="left">Sigueme en:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/brandon-navarro-navarro-3364a8125/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brandon-navarro-navarro-3364a8125/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/brandon-navarro-navarro-3364a8125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brandon-navarro-navarro-3364a8125/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/kreyshinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kreyshinn" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/kreyshin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kreyshin/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@kreyshin/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@kreyshin/featured" height="30" width="40" /></a>
